@@ -31,7 +31,7 @@ node src/app.js
 Follow the prompts to interact with the employee database.
 
 ## Walkthrough Video
-A walkthrough video demonstrating the functionality of the Employee Tracker can be found at: [Walkthrough Video Link](<insert-video-link-here>)
+A walkthrough video demonstrating the functionality of the Employee Tracker can be found at: https://drive.google.com/file/d/1GmanuSuXyw8lhaWwoNaDwdxlT_myMFWW/view?usp=sharing 
 
 ## Database Setup
 The application uses PostgreSQL as the database. Ensure you have PostgreSQL installed and running. You can use the `seeds.sql` file to populate the database with initial data.
